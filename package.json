@@ -5,7 +5,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "node backend/server",
+    "start": "nodemon backend/server",
     "server": "nodemon backend/server"
   },
   "author": "tjnaz",
